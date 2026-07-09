@@ -1,1 +1,1 @@
-document.write(document.domain)
+document.write(document.location)
