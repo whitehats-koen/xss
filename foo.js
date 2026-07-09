@@ -1,1 +1,1 @@
-document.write(document.location)
+document.write(123)
